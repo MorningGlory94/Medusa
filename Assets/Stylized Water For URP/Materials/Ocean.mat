@@ -101,7 +101,7 @@ Material:
     - _RefractionStrength: 0.022
     - _ShoreBlend: 1
     - _ShoreDepth: 60
-    - _ShoreFade: 1
+    - _ShoreFade: 1.89
     - _ShoreFoamBreakupScale: 0
     - _ShoreFoamBreakupStrength: 0
     - _ShoreFoamFrequency: 0
